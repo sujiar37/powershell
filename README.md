@@ -1,2 +1,2 @@
-# powershell
+# Powershell
 Powershell in Depth
